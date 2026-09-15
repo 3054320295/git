@@ -1,0 +1,37 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs, temporary files, and backups
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+build/
+coverage/
+htmlcov/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
